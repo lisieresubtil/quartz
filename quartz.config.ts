@@ -6,8 +6,8 @@ const config: QuartzConfig = {
     pageTitle: "Expérience Totale",
     enableSPA: true,
     enablePopovers: true,
-    baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian", ".trash"],
+    baseUrl: "experience-totale.lisieresubtil.com",
+    ignorePatterns: ["Perso", "Secrets", "**/Perso", ".obsidian", ".trash"],
     defaultDateType: "created",
     theme: {
       typography: {
