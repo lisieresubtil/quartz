@@ -1,2 +1,2 @@
 # Bienvenue
-Bonjour à tout le monde, blabla truc muche
+Bonjour à tout le monde, participez à mes ExpT
