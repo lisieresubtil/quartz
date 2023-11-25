@@ -26,15 +26,11 @@ Le monde de L'infobésité, le bruit des infos vs la sobriété des infos le sil
 Le monde des sourd-muerts / Malentendant #handicap
 	Langue des signes 
 
-Collectif [[Expérimentalbody]] #danse 
+Collectif Expérimentalbody #danse 
 
 La pièce la plus silencieuse
 
-Expérience Subjectif :
-
-
-Envoie par mail : exp_t@machinbidule
-où a cette addresse
+Expérience Subjectif - 
 
 #### Livre : 
 ADRIENNE RICH. - Cartographies du silence
