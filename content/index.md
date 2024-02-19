@@ -5,8 +5,6 @@
 **Expérience Totale** est une invitation à explorer et à redéfinir nos interactions avec nous-mêmes, les autres et le monde qui nous entoure.
 
 ![[Dessin_esnap_com_debrief.jpg]]
-**Dessin réalisé lors de la 1er expérience de 2024 !**
-*Clique sur le lien pour découvrir comme ça s'est passé.* [[Un week-end sans parler - Début février 2024]]
 
 **Nous sommes à la découverte de nous-mêmes et du monde qui nous entoure.** Cette exploration se manifeste par la compréhension approfondie des émotions humaines et des interactions sociales, l'exploration de divers états de conscience, et la découverte de nouvelles manières de vivre ensemble. Elle nous invite également à repenser notre relation avec le silence, le temps, le travail, l'environnement, etc...
 
