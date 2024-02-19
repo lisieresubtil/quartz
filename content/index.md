@@ -2,9 +2,9 @@
 # Bienvenue sur Expérience Totale
 #### **Qu'est-ce que Expérience Totale ?**
 
-**Expérience Totale** est une invitation à explorer et à redéfinir nos interactions avec nous-mêmes, les autres et le monde qui nous entoure. Unique dans sa conception, elle se présente sous des formes variées, adaptées à la fois à des expériences collectives et individuelles, offrant ainsi une liberté totale dans le choix de l'expérience.
+**Expérience Totale** est une invitation à explorer et à redéfinir nos interactions avec nous-mêmes, les autres et le monde qui nous entoure.
 
-#### **Au cœur de l'Expérience Totale,**
+![[Dessin_esnap_com_debrief.jpg]]
 
 **Nous sommes à la découverte de nous-mêmes et du monde qui nous entoure.** Cette exploration se manifeste par la compréhension approfondie des émotions humaines et des interactions sociales, l'exploration de divers états de conscience, et la découverte de nouvelles manières de vivre ensemble. Elle nous invite également à repenser notre relation avec le silence, le temps, le travail, l'environnement, etc...
 
@@ -22,7 +22,7 @@
 
 **Yop, Je m'appelle Vi·e !** Je suis en réflexion-agitation permanente pour trouver des manières désirables et réalisables de rendre nos vies dignes, équitables et joyeuses avant qu'il n'y ait plus de papillons.
 
-Alors ce concept est le fruit de mes courtes études en [anthropologie](https://fr.wikipedia.org/wiki/Anthropologie), de mes lectures enrichissantes, de mes rencontres passionnantes, et d'une curiosité sans limite pour les nouvelles perspectives. 
+Alors ce concept est le fruit de mes courtes études en [anthropologie](https://fr.wikipedia.org/wiki/Anthropologie), de mes lectures enrichissantes, de mes rencontres passionnantes et d'une curiosité sans limite pour les nouvelles perspectives. 
 
 L'objectif est de proposer des expériences immersives et [transdisciplinaires](https://fr.wikipedia.org/wiki/Transdisciplinarit%C3%A9) pour nous inviter à découvrir des façons de vivre, d'habiter, de relationner potentiellement plus vertueuses que les normes établies.
 
