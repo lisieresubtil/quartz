@@ -17,7 +17,6 @@ J'ai envie de recommencer...
 ![[L amour et le bruit.jpg]]
 *L'amour et le bruit !*
 
-
 ![[Sérénité.jpg]]
 *Sérénité ?*
 
