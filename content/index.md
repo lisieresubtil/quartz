@@ -29,15 +29,18 @@ Alors ce concept est le fruit de mes courtes études en [anthropologie](https://
 
 L'objectif est de proposer des expériences immersives et [transdisciplinaires](https://fr.wikipedia.org/wiki/Transdisciplinarit%C3%A9) pour nous inviter à découvrir des façons de vivre, d'habiter, de relationner potentiellement plus vertueuses que les normes établies.
 
-#### Comment participer ? 
+### Comment participer ? 
 
-**Les expérimentations débuteront en 2024.** Les inscriptions pourront se faire via des formulaires en ligne ou par des méthodes plus originales.
+Les inscriptions pourront se faire via des formulaires en ligne ou par des méthodes plus originales.
 
-Le thème de 2024 portera sur le silence, exploré sous divers angles.
-
-Expérience Totale est un projet non lucratif. Le prix ou la gratuité variera en fonction de l'expérience.
+**Le thème de 2024 portera sur le silence**, exploré sous divers angles.
 
 Les participants peuvent également s'impliquer dans la création des expériences en rejoignant le collectif. Tu peux nous contacter à : [exp_totale@protonmail.com](mailto:exp_totale@protonmail.com)
 
-Pour être informé des dernières actualités, tu peux t'abonner à notre liste de diffusion :
+**Pour être informé des dernières actualités**, tu peux :
+- suivre [[Zia et ces expériences totales]] sur le compte instagram - @lisiere_subtil
+- t'abonner à notre liste de diffusion :
 https://framagroupes.org/sympa/subscribe/infos_experience-totale
+
+Le lien de mon site qui présente ton mon univers : lisieresubtil.com
+
